@@ -1,4 +1,4 @@
-# darsshan
-my self Darshan.s 
+# vinay
+my self vinay.s 
 from oxford clg
 5th sem
